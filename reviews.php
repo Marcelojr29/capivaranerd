@@ -16,13 +16,13 @@
 			<h1>Capivara<span class="branco">Nerd REVIEWS</span></h1>
 		</div>
 		<div id="area-menu">
-			<a href="home.html">HOME</a>
-			<a href="jogos.html" target="_blank">JOGOS</a>
-			<a href="noticias.html" target="_blank">NOTÍCIAS</a>
-			<a href="esports.html" target="_blank">E-SPORTS</a>
-			<a href="rumores.html" target="_blank">RUMORES</a>
-			<a href="reviews.html">REVIEWS</a>
-			<a href="login.html" target="_blank">LOGIN/REGISTRO</a>
+			<a href="home.php">HOME</a>
+			<a href="jogos.php" target="_blank">JOGOS</a>
+			<a href="noticias.php" target="_blank">NOTÍCIAS</a>
+			<a href="esports.php" target="_blank">E-SPORTS</a>
+			<a href="rumores.php" target="_blank">RUMORES</a>
+			<a href="reviews.php">REVIEWS</a>
+			<a href="login.php" target="_blank">LOGIN/REGISTRO</a>
 
 		</div>
 

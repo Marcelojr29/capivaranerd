@@ -90,7 +90,7 @@
 			<div>
 				<img src="capivara-nerd.png">
 			</div>	
-		<form action="login.html" method="POST">
+		<form action="login.php" method="POST">
 			<input type="text" name="nome" placeholder="nome de usuario" autofocus required>
 			<input type="password" name="senha" placeholder="sua senha" required>
 			<input type="submit" value="entrar">

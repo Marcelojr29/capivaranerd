@@ -17,13 +17,13 @@
 		</div>
 		
 		<div id="area-menu">
-			<a href="home.html" target="_blank">HOME</a>
-			<a href="jogos.html" target="_blank">JOGOS</a>
-			<a href="noticias.html" target="_blank">NOTÍCIAS</a>
-			<a href="esports.html">E-SPORTS</a>
-			<a href="rumores.html" target="_blank">RUMORES</a>
-			<a href="reviews.html" target="_blank">REVIEWS</a>
-			<a href="login.html" target="_blank">LOGIN/CADASTRO</a>
+			<a href="home.php" target="_blank">HOME</a>
+			<a href="jogos.php" target="_blank">JOGOS</a>
+			<a href="noticias.php" target="_blank">NOTÍCIAS</a>
+			<a href="esports.php">E-SPORTS</a>
+			<a href="rumores.php" target="_blank">RUMORES</a>
+			<a href="reviews.php" target="_blank">REVIEWS</a>
+			<a href="login.php" target="_blank">LOGIN/CADASTRO</a>
 
 		</div>
 
