@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
 	<title>HOME</title>
-	<link rel="shortcut icon" type="text/css" href="capivara-nerd.png">
+	<link rel="shortcut icon" type="text/css" href="imagens/capivara-nerd.png">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
