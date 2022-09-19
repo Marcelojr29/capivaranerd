@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-
-	<style type="text/css">
-
-			body{
+body{
 			background-color: #1b1f27;
 			font-family: arial, Helvetica, sans-serif;gf
 			overflow: hidden;
@@ -75,30 +69,3 @@
 			text-decoration: none;
 			margin-left: 10px;
 		}
-
-	</style>
-
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Login</title>
-	<link rel="shortcut icon" type="text/css" href="capivara-nerd.png">
-</head>
-
-<body>		
-	<section class="area-login">
-		<div class="login">
-			<div>
-				<img src="capivara-nerd.png">
-			</div>	
-		<form action="login.php" method="POST">
-			<input type="text" name="nome" placeholder="nome de usuario" autofocus required>
-			<input type="password" name="senha" placeholder="sua senha" required>
-			<input type="submit" value="entrar">
-		</form>
-			<p>Ainda não tem uma conta?<a href="cadastro.html" target="_blank">Criar conta</a></p>
-		</div>
-	</section>
-
-</body>
-
-</html>

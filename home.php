@@ -3,7 +3,7 @@
 <head>
 	<title>HOME</title>
 	<link rel="shortcut icon" type="text/css" href="capivara-nerd.png">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
@@ -12,18 +12,18 @@
 		
 	<div id="area-cabecalho">
 		<div id="area-logo">
-			<img src="capivara-nerd.png" width="150px">
+			<img src="imagens/capivara-nerd.png" width="150px">
 			<h1>Capivara<span class="branco">Nerd Home</span></h1>
 		</div>
 		
 		<div id="area-menu">
 			<a href="home.php">HOME</a>
-			<a href="jogos.php" target="_blank">JOGOS</a>
-			<a href="noticias.php" target="_blank">NOTÍCIAS</a>
-			<a href="esports.php" target="_blank">E-SPORTS</a>
-			<a href="rumores.php" target="_blank">RUMORES</a>
-			<a href="reviews.php" target="_blank">REVIEWS</a>
-			<a href="login.php" target="_blank">LOGIN/REGISTRO</a>
+			<a href="jogos/jogos.php" target="_blank">JOGOS</a>
+			<a href="noticias/noticias.php" target="_blank">NOTÍCIAS</a>
+			<a href="esports/esports.php" target="_blank">E-SPORTS</a>
+			<a href="rumores/rumores.php" target="_blank">RUMORES</a>
+			<a href="reviews/reviews.php" target="_blank">REVIEWS</a>
+			<a href="php/login.php" target="_blank">LOGIN/REGISTRO</a>
 
 		</div>
 
