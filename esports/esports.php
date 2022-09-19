@@ -2,8 +2,8 @@
 <html lang="pt-br">
 <head>
 	<title>E-SPORTS</title>
-	<link rel="shortcut icon" type="text/css" href="capivara-nerd.png">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" type="text/css" href="../imagens/capivara-nerd.png">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 
 <body>
@@ -12,18 +12,18 @@
 		
 		<div id="area-cabecalho">
 		<div id="area-logo">
-			<img src="capivara-nerd.png" width="150px">
+			<img src="../imagens/capivara-nerd.png" width="150px">
 			<h1>Capivara<span class="branco">Nerd E-Sports</span></h1>
 		</div>
 		
 		<div id="area-menu">
-			<a href="home.php" target="_blank">HOME</a>
-			<a href="jogos.php" target="_blank">JOGOS</a>
-			<a href="noticias.php" target="_blank">NOTÍCIAS</a>
+			<a href="../home.php" target="_blank">HOME</a>
+			<a href="../jogos/jogos.php" target="_blank">JOGOS</a>
+			<a href="../noticias/noticias.php" target="_blank">NOTÍCIAS</a>
 			<a href="esports.php">E-SPORTS</a>
-			<a href="rumores.php" target="_blank">RUMORES</a>
-			<a href="reviews.php" target="_blank">REVIEWS</a>
-			<a href="login.php" target="_blank">LOGIN/CADASTRO</a>
+			<a href="../rumores/rumores.php" target="_blank">RUMORES</a>
+			<a href="../reviews/reviews.php" target="_blank">REVIEWS</a>
+			<a href="../php/login.php" target="_blank">LOGIN/CADASTRO</a>
 
 		</div>
 
@@ -38,7 +38,7 @@
 			<div class="postagem">
 				<h2>CBLOL 2022: LOUD atropela paiN e é campeã pela primeira vez</h2>
 				<span class="data-postagem">Postado dia 03/09/2022 por MARCELO JUNIOR</span>
-				<img src="esports/cblol.jpg" width="630px">
+				<img src="cblol.jpg" width="630px">
 				<p>Faz o L porque a LOUD é a grande campeã do CBLOL 2022. A organização conquistou o primeiro título do torneio brasileiro de League of Legends (LoL) após vencer a paiN Gaming, por 3 a 0, na final realizada neste sábado (3). Em série marcada pelo show das torcidas no Ginásio do Ibirapuera, Robo e seus companheiros dominaram os Tradicionais. Com o resultado, a LOUD irá representar o Brasil no Worlds 2022, o Mundial do jogo.<br><br>
 					No primeiro confronto, o equilíbrio prevaleceu nas rotas até o momento em que a LOUD se agrupou e encontrou as melhores lutas em grupo. A partir disso, a paiN Gaming até tentou se recuperar, mas parou na boa atuação de tinowns e sua Taliyah (8/0/8). Resultado? Vitória da LOUD e 1-0 na série.<br><br>
 					Na sequência, a paiN Gaming buscou mais agressividade com a escolha de Draven nas mãos de Trigo. Só que os Tradicionais continuaram deixando a LOUD muito confortável nos principais picks, com Robo de Gnar, Brance novamente de Kalista e tinowns ainda de Taliyah. Foi assim que a LOUD não precisou de muito esforço para não só colocar 2-0 no placar, como também uma mão na taça.<br><br>
@@ -51,7 +51,7 @@
 			<div class="postagem">
 				<h2>VALORANT: Complicou? LOUD sofre virada da OpTic no Champions 2022</h2>
 				<span class="data-postagem">Postado dia 02/09/2022 por MARCELO JUNIOR</span>
-				<img src="esports/valorant.jpg" width="630px">
+				<img src="valorant.jpg" width="630px">
 				<p>Não deu mais uma vez para a LOUD diante da OpTic. Os americanos venceram os brasileiros, por 2 a 0, pela chave superior do Grupo B do VALORANT Champions 2022 nesta sexta-feira (2). Apesar do bom início de Sacy e seus companheiros, o time comandado individualmente por yay conseguiu a virada ao longo da série. Com o resultado, a LOUD agora aguarda o vencedor entre BOOM e ZETA para seguir viva no Mundial de VALORANT.<br><br>
 				<strong>Era para ser atropelo, mas...</strong><br><br>
 				A LOUD começou a Breeze com tudo e chegou a abrir 11 a 1. Quando tudo se encaminhava para um passeio dos brasileiros no primeiro mapa da série, a OpTic se recuperou e dava indícios de que faria uma remontada tal qual a DRX contra a FURIA. Só que Aspas e Less impediram isso e colaboraram para que a LOUD fechasse o jogo em 13 a 7. <br><br>
@@ -84,12 +84,12 @@
 
 			<div class="conteudo-lateral">
 				<h3>Categorias</h3>
-				<a href="home.html">HOME</a><br>
-				<a href="jogos.html">JOGOS</a><br>
-				<a href="noticias.html">NOTÍCIAS</a><br>
-				<a href="esports.html">E-SPORTS</a><br>
-				<a href="rumores.html">RUMORES</a><br>
-				<a href="reviews.html">REVIEWS</a>
+				<a href="../home.php">HOME</a><br>
+				<a href="../jogos/jogos.php">JOGOS</a><br>
+				<a href="../noticias/noticias.php">NOTÍCIAS</a><br>
+				<a href="esports.php">E-SPORTS</a><br>
+				<a href="../rumores/rumores.php">RUMORES</a><br>
+				<a href="../reviews/reviews.php">REVIEWS</a>
 				
 			</div>
 			

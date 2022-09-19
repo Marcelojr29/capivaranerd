@@ -2,8 +2,8 @@
 <html lang="pt-br">
 <head>
 	<title>REVIEWS</title>
-	<link rel="shortcut icon" type="text/css" href="capivara-nerd.png">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" type="text/css" href="../imagens/capivara-nerd.png">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 
 <body>
@@ -12,17 +12,17 @@
 		
 		<div id="area-cabecalho">
 		<div id="area-logo">
-			<img src="capivara-nerd.png" width="150px">
+			<img src="../imagens/capivara-nerd.png" width="150px">
 			<h1>Capivara<span class="branco">Nerd REVIEWS</span></h1>
 		</div>
 		<div id="area-menu">
-			<a href="home.php">HOME</a>
-			<a href="jogos.php" target="_blank">JOGOS</a>
-			<a href="noticias.php" target="_blank">NOTÍCIAS</a>
-			<a href="esports.php" target="_blank">E-SPORTS</a>
-			<a href="rumores.php" target="_blank">RUMORES</a>
+			<a href="../home.php">HOME</a>
+			<a href="../jogos/jogos.php" target="_blank">JOGOS</a>
+			<a href="../noticias/noticias.php" target="_blank">NOTÍCIAS</a>
+			<a href="../esports/esports.php" target="_blank">E-SPORTS</a>
+			<a href="../rumores/rumores.php" target="_blank">RUMORES</a>
 			<a href="reviews.php">REVIEWS</a>
-			<a href="login.php" target="_blank">LOGIN/REGISTRO</a>
+			<a href="../php/login.php" target="_blank">LOGIN/REGISTRO</a>
 
 		</div>
 
@@ -37,7 +37,7 @@
 			<div class="postagem">
 				<h2>RESIDENT EVIL 4</h2>
 				<span class="data-postagem">Postado dia 08/09/2022 por MARCELO JUNIOR</span>
-				<img src="reviews/Res4.png" width="630px">
+				<img src="Res4.png" width="630px">
 				<p><b>Resident Evil 4</b>, conhecido no Japão como <b>Biohazard 4</b>, é um jogo do gênero <b>Survival Horror</b> e tiro em terceira pessoa desenvolvido e publicado pela <b>CAPCOM</b> com a direção de <b>Shinji Mikami</b>, lançado originalmente para o <b>Nintendo GameCube</b> em 2005 porém antes do seu lançamento oficial houveram diversos problemas como o jogo ser anunciado em 2004 que ele seria lançado para a plataforma rival <b>Playstation 2</b> pois houveram problemas dentro da produção e o que era pra ser uma exclusividade para o GameCube acabou sendo uma dor de cabeça futura para a desenvolvedora.<br><br>
 					<b>Resident Evil 4</b> foi uma revolução no mundo dos games por conta de sua inovadora câmera por cima do ombro já que diversos jogos na sua época não tinham recursos para fazer tal feito, visto que 17 anos depois do seu lançamento o próprio <b>Shinji Mikami</b> em entrevista com <b>Jun Takeuchi</b>, produtor executivo de <b>Resident Evil 7</b>, revelou que essa "inovação" foi algo sem querer e que eles, desenvolvedores, não tinham a intenção de fazer tal ato.<br><br>
 					Mas vamos logo ao que interessa, a história de RE4 e a minha (Marcelo Junior) sincera opinião sobre o <i>plot</i>.<br><br>
@@ -56,7 +56,7 @@
 					Em resumo: Se você estiver querendo adicionar mais um jogo a sua listinha de jogos zerados, RE4 é uma boa mas não se aprofunde muito ou estará decepcionado logo cedo.			
 					</p>
 				<br><br>
-				<img src="reviews/Separate.jpg" width="630px" height="440px">
+				<img src="Separate.jpg" width="630px" height="440px">
 				<p>Separate Ways é um bônus legal que não estava no RE4 original, eu acredito. Foi bom revisitar os níveis no modo 	Normal após uma execução Profissional, mas não incluiu tantos cenários novos quanto eu gostaria. Principalmente, o quarto capítulo é o conteúdo "novo" real. O resto são recauchutados, embora seja divertido ver Leon correndo enquanto você joga Ada - o que é importante notar que isso é canônico, ao contrário do Assignment Ada. Desejei que Ada tivesse um corpo a corpo diferente para quando você entrasse no castelo, como quando Leon ganhou sua habilidade suplex. Além disso, a nova arma Bowgun parecia um Mine Thrower despojado. <br><br>
 					No entanto, ainda foi uma boa reviravolta, mas definitivamente uma das minhas iterações menos favoritas da arma icônica de Ada. Eu gosto disso depois de concluir isso, você pode obter um novo conjunto de roupas especiais que é muito divertido e será usado na minha próxima jogada completa. <br><br>
 					Apesar dos níveis serem ótimos, o jogo é decepcionado pelas lutas contra chefes sendo as mesmas de antes, além da última com Saddler. A luta de Krauser é a mesma da parte final da de Leon, mas com uma arena menor que era chata tentar usar meu Bowgun - embora muito fácil se você conhece a fraqueza dele. Então, a luta do Saddler era apenas uma esponja de bala irritante, como a versão Leon, mas menos impressionante visualmente. Isso é esperado, pois foi feito após RE4 e não foi supervisionado por Mikami, se bem me lembro. <br><br>
@@ -71,13 +71,13 @@
 			<div class="postagem">
 				<h2>SONY e TENCENT compram 30% da From Software</h2>
 				<span class="data-postagem">Postado dia 31/08/2022 por MARCELO JUNIOR</span>
-				<img src="home/from.jpg" width="630px" height="440px">
-				<p><!--Em uma ação que talvez tenha pego muitos jogadores de surpresa, foi revelado que a Sony e a Tencent compraram 30% da From Software, empresa responsável por grandes sucessos como Dark Souls e Elden Ring.<br><br>
+				<img src="../home/from.jpg" width="630px" height="440px">
+				<p>Em uma ação que talvez tenha pego muitos jogadores de surpresa, foi revelado que a Sony e a Tencent compraram 30% da From Software, empresa responsável por grandes sucessos como Dark Souls e Elden Ring.<br><br>
 					Um dos que divulgou essa informação foi Gearoid Reidy, colunista do site Bloomberg. Em mensagem publicada em seu perfil no Twitter, ele mencionou que a Sixjoy Hong Kong (uma subsidiária da Tencent) vai ficar com 16,25% das ações, enquanto a Sony será detentora de 14,09%. O investimento combinado das duas foi de aproximadamente 36,4 bilhões de ienes.<br><br>
 					Outro ponto importante dessa transação é que a Kadokawa Corporation ainda segue como a principal acionista da produtora, com 69,66% dos ativos. Vale ressaltar, entretanto, que a fabricante do PlayStation possui uma parte das ações da Kadokawa.
 					<strong>O que muda com isso?</strong><br><br>
 					Se essa é a pergunta que você está se fazendo neste momento, fique tranquilo: esse acordo não vai gerar nenhum tipo de exclusividade para os games da From Software. Porém, o documento relacionado à aquisição das ações menciona que o dinheiro recebido pela empresa de Elden Ring vai ajudar a "estabelecer uma estrutura que permita a expansão do escopo de publicação da própria From Software no mercado global".<br><br>
-					Com isso em mente, a estratégia vai permitir que a From Software seja a criadora e distribuidora de seus próprios projetos, sem a necessidade de agir em conjunto com a Bandai Namco ou a Activision.--></p>
+					Com isso em mente, a estratégia vai permitir que a From Software seja a criadora e distribuidora de seus próprios projetos, sem a necessidade de agir em conjunto com a Bandai Namco ou a Activision.</p>
 				<a href="https://www.tecmundo.com.br/voxel/245823-sony-tencent-compram-30-from-software.htm">Leia mais sobre esta notícia</a>
 			</div>
 			
@@ -102,11 +102,12 @@
 
 			<div class="conteudo-lateral">
 				<h3>Categorias</h3>
-				<a href="home.html">HOME</a><br>
-				<a href="jogos.html">JOGOS</a><br>
-				<a href="noticias.html">NOTÍCIAS</a><br>
-				<a href="esports.html">E-SPORTS</a><br>
-				<a href="rumores.html">RUMORES</a><br>
+				<a href="../home.php">HOME</a><br>
+				<a href="../jogos/jogos.php">JOGOS</a><br>
+				<a href="../noticias/noticias.php">NOTÍCIAS</a><br>
+				<a href="../esports/esports.php">E-SPORTS</a><br>
+				<a href="../rumores/rumores.php">RUMORES</a><br>
+				<a href="reviews.php">REVIEWS</a>
 				
 			</div>
 			

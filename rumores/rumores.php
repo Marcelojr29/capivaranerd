@@ -2,8 +2,8 @@
 <html lang="pt-br">
 <head>
 	<title>RUMORES</title>
-	<link rel="shortcut icon" type="text/css" href="capivara-nerd.png">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" type="text/css" href="../imagens/capivara-nerd.png">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 
 <body>
@@ -12,17 +12,17 @@
 		
 			<div id="area-cabecalho">
 		<div id="area-logo">
-			<img src="capivara-nerd.png" width="150px">
+			<img src="../imagens/capivara-nerd.png" width="150px">
 			<h1>Capivara<span class="branco">Nerd Rumores</span></h1>
 		</div>
 		<div id="area-menu">
-			<a href="home.php" target="_blank">HOME</a>
-			<a href="jogos.php" target="_blank">JOGOS</a>
-			<a href="noticias.php" target="_blank">NOTÍCIAS</a>
-			<a href="esports.php" target="_blank">E-SPORTS</a>
+			<a href="../home.php" target="_blank">HOME</a>
+			<a href="../jogos/jogos.php" target="_blank">JOGOS</a>
+			<a href="../noticias/noticias.php" target="_blank">NOTÍCIAS</a>
+			<a href="../esports/esports.php" target="_blank">E-SPORTS</a>
 			<a href="rumores.php">RUMORES</a>
-			<a href="reviews.php" target="_blank">REVIEWS</a>
-			<a href="login.php" target="_blank">LOGIN/CADASTRO</a>
+			<a href="../reviews/reviews.php" target="_blank">REVIEWS</a>
+			<a href="../php/login.php" target="_blank">LOGIN/CADASTRO</a>
 
 		</div>
 
@@ -37,7 +37,7 @@
 			<div class="postagem">
 				<h2>Novo Nintendo Direct pode acontecer em setembro, aponta rumor</h2>
 				<span class="data-postagem">Postado dia 31/08/2022 por MARCELO JUNIOR</span>
-				<img src="rumores/nintendo.jpg" width="630px">
+				<img src="nintendo.jpg" width="630px">
 				<p>A Nintendo estaria preparando uma nova edição do Nintendo Direct para este mês de setembro, segundo afirma o jornalista e insider Jeff Grubb, do GamesBeat. A informação foi revelada em transmissão ao vivo na noite desta terça-feira (30).<br><br>
 				De acordo com o jornalista, ele está completamente certo de que a transmissão está sendo preparada e deve focar em novidades de parceiros de publicação para Nintendo Switch, mas também pode incluir algumas surpresas.<br><br>
 				As fontes dão conta de que remasterizações de The Legend of Zelda: Twilight Princess e The Legend of Zelda: Wind Waker, que já são especuladas há bastante tempo, estariam entre as possíveis revelações. Ele também cita que ouviu a respeito de Metroid Prime Remaster, que celebraria seu 20º aniversário e prepararia o terreno para o aguardadíssimo Metroid Prime 4.<br><br>
@@ -51,7 +51,7 @@
 			<div class="postagem">
 				<h2>Novos RUMORES sobre RESIDENT EVIL 4 REMAKE foram publicados no Reddit</h2>
 				<span class="data-postagem">Postado dia 03/09/2022 por MARCELO JUNIOR</span>
-				<img src="rumores/re4.jpg" width="630px">
+				<img src="re4.jpg" width="630px">
 				<p>"Eu sou Kane (nome fictício), e sou um escritor de IGN e tenho fontes que foram convidadas pela Capcom para testes iniciais:<br><br>
 				- O remake terá cenários com Leon Ada e Luis.<br><br>
 				- O personagem de Krauser é totalmente retrabalhado e reimaginado e sua forma mutante terá 5 estágios semelhantes a William Birklin.<br><br>
@@ -93,11 +93,12 @@
 
 			<div class="conteudo-lateral">
 				<h3>Categorias</h3>
-				<a href="home.html">HOME</a><br>
-				<a href="jogos.html">JOGOS</a><br>
-				<a href="noticias.html">NOTÍCIAS</a><br>
-				<a href="esports.html">E-SPORTS</a><br>
-				<a href="rumores.html">RUMORES</a><br>
+				<a href="../home.php">HOME</a><br>
+				<a href="../jogos/jogos.php">JOGOS</a><br>
+				<a href="../noticias/noticias.php">NOTÍCIAS</a><br>
+				<a href="../esports/esports.php">E-SPORTS</a><br>
+				<a href="rumores.php">RUMORES</a><br>
+				<a href="../reviews/reviews.php">REVIEWS</a>
 				
 			</div>
 			

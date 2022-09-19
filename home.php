@@ -84,12 +84,12 @@
 
 			<div class="conteudo-lateral">
 				<h3>Categorias</h3>
-				<a href="home.html">HOME</a><br>
-				<a href="jogos.html">JOGOS</a><br>
-				<a href="noticias.html">NOTÍCIAS</a><br>
-				<a href="esports.html">E-SPORTS</a><br>
-				<a href="rumores.html">RUMORES</a><br>
-				<a href="reviews.html">REVIEWS</a>
+				<a href="home.php">HOME</a><br>
+				<a href="jogos/jogos.php">JOGOS</a><br>
+				<a href="noticias/noticias.php">NOTÍCIAS</a><br>
+				<a href="esports/esports.php">E-SPORTS</a><br>
+				<a href="rumores/rumores.php">RUMORES</a><br>
+				<a href="reviews/reviews.php">REVIEWS</a>
 				
 			</div>
 			
