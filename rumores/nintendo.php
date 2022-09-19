@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-	<title>RUMORES</title>
+	<title>Novo Nintendo Direct pode acontecer em setembro, aponta rumor</title>
 	<link rel="shortcut icon" type="text/css" href="../imagens/capivara-nerd.png">
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
@@ -13,7 +13,7 @@
 			<div id="area-cabecalho">
 		<div id="area-logo">
 			<img src="../imagens/capivara-nerd.png" width="150px">
-			<h1>Capivara<span class="branco">Nerd Rumores</span></h1>
+			<h1>Capivara<span class="branco">Nerd</span></h1>
 		</div>
 		<div id="area-menu">
 			<a href="../home.php" target="_blank">HOME</a>
@@ -38,20 +38,14 @@
 				<h2>Novo Nintendo Direct pode acontecer em setembro, aponta rumor</h2>
 				<span class="data-postagem">Postado dia 31/08/2022 por MARCELO JUNIOR</span>
 				<img src="nintendo.jpg" width="630px">
-				<p>A Nintendo estaria preparando uma nova edição do Nintendo Direct para este mês de setembro, segundo afirma o jornalista e insider Jeff Grubb, do GamesBeat. A informação foi revelada em transmissão ao vivo na noite desta terça-feira (30).<br><br></p>
-				<a href="nintendo.php" target="_blank">Leia mais sorbe esta notícia</a>
-				
+				<p>A Nintendo estaria preparando uma nova edição do Nintendo Direct para este mês de setembro, segundo afirma o jornalista e insider Jeff Grubb, do GamesBeat. A informação foi revelada em transmissão ao vivo na noite desta terça-feira (30).<br><br>
+				De acordo com o jornalista, ele está completamente certo de que a transmissão está sendo preparada e deve focar em novidades de parceiros de publicação para Nintendo Switch, mas também pode incluir algumas surpresas.<br><br>
+				As fontes dão conta de que remasterizações de The Legend of Zelda: Twilight Princess e The Legend of Zelda: Wind Waker, que já são especuladas há bastante tempo, estariam entre as possíveis revelações. Ele também cita que ouviu a respeito de Metroid Prime Remaster, que celebraria seu 20º aniversário e prepararia o terreno para o aguardadíssimo Metroid Prime 4.<br><br>
+				Outra expectativa, ainda que remota, é que a empresa possa finalmente revelar o nome oficial da sequência de The Legend of Zelda: Breath of the Wild, que foi adiada para a primavera americana de 2023 — que equivale ao nosso outono, entre março de junho.<br><br>
+				Além disso, alguns fãs mais atentos também observaram que a página oficial do Nintendo Direct, quando pesquisada no Google, supostamente passou por uma atualização há quase uma semana. O entendimento é que isso indicaria um anúncio iminente por parte da empresa.<br><br>
+				No entanto, a Nintendo ainda não se pronunciou oficialmente nas redes sociais e os seus anúncios de eventos costumam acontecer às vésperas. Nos últimos meses, a empresa realizou apenas um Nintendo Direct Mini, além de transmissões dedicadas a Xenoblade Chronicles 3 e Splatoon 3.</p>
+				<a href="https://www.tecmundo.com.br/voxel/245848-novo-nintendo-direct-acontecer-setembro-aponta-rumor.htm">Leia mais sorbe esta notícia</a>
 			</div>
-
-			<div class="postagem">
-				<h2>Novos RUMORES sobre RESIDENT EVIL 4 REMAKE foram publicados no Reddit</h2>
-				<span class="data-postagem">Postado dia 03/09/2022 por MARCELO JUNIOR</span>
-				<img src="re4.jpg" width="630px">
-				<p>"Eu sou Kane (nome fictício), e sou um escritor de IGN e tenho fontes que foram convidadas pela Capcom para testes iniciais:<br><br>
-				- O remake terá cenários com Leon Ada e Luis.<br><br></p>
-				<a href="resident.php" target="_blank">Leia mais sobre esta notícia</a>
-			</div>
-			
 		</div>
 
 		<div id="area-lateral">
