@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Cadastro CapivaraNerd</title>
 	<link rel="stylesheet" type="text/css" href="../css/cadastro.css">
-	<link rel="shortcut icon" type="text/css" href="capivara-nerd.png">
+	<link rel="shortcut icon" type="text/css" href="../imagens/capivara-nerd.png">
 </head>
 
 <body>
