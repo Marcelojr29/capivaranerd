@@ -16,25 +16,25 @@
 			<img src="../imagens/capivara-nerd.png" width="350px" alt="CapivaraNerd">
 		</div><!--/fechamento form image-->
 		<div class="form"><!--abertura form-->
-			<form action="#"><!--abertura form action-->
+			<form action="validar.php" method="POST"><!--abertura form action-->
 				<div class="form-header"><!--abertura form header-->
 					<div class="title"><!--abertura title-->
 						<h1>Cadastre-se</h1>
 					</div><!--/fechamento title-->
 					<div class="login-button"><!--abertura login-button-->
-						<button><a href="login.html" target="_blank">Entrar</a></button>
+						<button><a href="login.php" target="_blank">Entrar</a></button>
 					</div><!--/fechamento login-button-->
 				</div><!--/fechamento form header-->
 
 				<div class="input-group"><!--abertura input-group-->
 					<div class="input-box"><!--abertura input-box-->
-						<label for="firstname">Nome</label>
-						<input id="firstname" type="text" name="firstname" placeholder="Digite o seu Nome" autofocus required>
+						<label for="nome">Nome</label>
+						<input id="nome" type="text" name="nome" placeholder="Digite o seu Nome" autofocus required>
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
-						<label for="lastname">Sobrenome</label>
-						<input id="lastname" type="text" name="lastname" placeholder="Digite o seu Sobrenome" autofocus required>
+						<label for="sobrenome">Sobrenome</label>
+						<input id="sobrenome" type="text" name="sobrenome" placeholder="Digite o seu Sobrenome" autofocus required>
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
@@ -43,51 +43,23 @@
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
-						<label for="number">Celular</label>
-						<input id="number" type="tel" name="number" placeholder="(92) 90000-0000" autofocus required>
+						<label for="numero">Celular</label>
+						<input id="numero" type="tel" name="numero" placeholder="(92) 90000-0000" autofocus required>
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
-						<label for="password">Senha</label>
-						<input id="password" type="password" name="password" placeholder="Digite a sua Senha" autofocus required>
+						<label for="senha">Senha</label>
+						<input id="senha" type="password" name="senha" placeholder="Digite a sua Senha" autofocus required>
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
-						<label for="password">Confirme a sua senha</label>
-						<input id="password" type="password" name="confirmpassword" placeholder="Digite a sua Senha" autofocus required>
+						<label for="senha">Confirme a sua senha</label>
+						<input id="confsenha" type="password" name="confsenha" placeholder="Digite a sua Senha" autofocus required>
 					</div><!--/fechamento input-box-->
 				</div><!--/fechamento input-group-->
 
-				<div class="gender-inputs"><!--abertura gender-inputs-->
-					<div class="gender-title"><!--abertura gender-title-->
-						<h6>Gênero</h6>
-					</div><!--/fechamento gender-title-->
-
-					<div class="gender-group"><!--abertura gender-group-->
-						<div class="gender-input"><!--abertura gender-input-->
-							<input type="radio" id="female" name="gender">
-							<label for="female">Feminino</label>
-						</div><!--/fechamento gender-input-->
-
-						<div class="gender-input"><!--abertura gender-input-->
-							<input type="radio" id="male" name="gender">
-							<label for="male">Masculino</label>
-						</div><!--/fechamento gender-input-->
-
-						<div class="gender-input"><!--abertura gender-input-->
-							<input type="radio" id="others" name="gender">
-							<label for="others">Outros</label>
-						</div><!--/fechamento gender-input-->
-
-						<div class="gender-input"><!--abertura gender-input-->
-							<input type="radio" id="none" name="gender">
-							<label for="none">Prefiro não dizer</label>
-						</div><!--/fechamento gender-input-->
-					</div><!--/fechamento gender-group-->
-				</div><!--/fechamento gender-inputs-->
-
 				<div class="continue-button"><!--abertura continue-button-->
-					<button><a href="login.html">Continuar</a></button>
+					<button><a href="login.php">Continuar</a></button>
 				</div><!--/fechamento continue-button-->
 			</form><!--/fechamento form action-->
 		</div><!--/fechamento form-->
